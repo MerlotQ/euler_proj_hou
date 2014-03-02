@@ -1,4 +1,5 @@
 % problem 1
+% Lianfeng Hou Test_01
 
 K =1000;
 limit_3=(K-mod(K,3))/3;%Remainder after division
